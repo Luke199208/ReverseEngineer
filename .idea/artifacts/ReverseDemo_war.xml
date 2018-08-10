@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ReverseDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ReverseDemo.war">
+      <element id="artifact" artifact-name="ReverseDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
